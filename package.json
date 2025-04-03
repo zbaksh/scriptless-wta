@@ -1,0 +1,30 @@
+{
+  "name": "scriptless-wta",
+  "version": "1.0.0",
+  "description": "Scriptless Application for Web Testing Automation  ",
+    "scripts": {
+      "start":"parcel index.html",
+      "build":"parcel build index.html",
+      "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbaksh/scriptless-wta.git"
+  },
+  "keywords": [
+    "scriptless"
+  ],
+  "author": "Zaiba Nashat Bakshi",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "bugs": {
+    "url": "https://github.com/zbaksh/scriptless-wta/issues"
+  },
+  "homepage": "https://github.com/zbaksh/scriptless-wta#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}

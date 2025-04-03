@@ -1,0 +1,66 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border:1px solid black;
+}
+
+.appName{
+    color: black;
+}
+
+.logo-container{
+
+    justify-content: space-between;
+    display: flex;
+}
+
+.logo{
+    width: 100px;
+    padding:5px;
+}
+
+.nav-items{
+    padding: 0px 20px;
+}
+
+.nav-items >ul{
+    font-size: 24px;
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-items >ul >li{
+padding: 10px;
+margin:10px;
+}
+.action{
+    padding:4px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.target{
+    padding: 4px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.value{
+    padding: 4px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.description{
+    padding: 4px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.divCommandItems{
+   border:1px solid black;
+}
+
+.search{
+    padding:10px;
+}
